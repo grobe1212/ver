@@ -12,6 +12,18 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+	
+	channel>
+<title><![CDATA[Temporada 2018 Argentina]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/7222fbafed8ee91c4ae1a20eae89840c.gif"/>]]>Clasificadion Carrera 1 Cal Crutchlow 2 Johan Zarco 3 Alex Rins.</description>
+<stream_url><![CDATA[http://streamcloud.eu/5kjvouofj1c6/MO5TO7GP_QA8TA9R_2018_HD.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
+	
 
 
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
