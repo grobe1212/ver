@@ -59,6 +59,17 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HD/drama.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+<channel>       
+<title><![CDATA[TERROR]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/3eaf22a39ee8afdabc3c45009cd9259a.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HD/terror.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+  
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
