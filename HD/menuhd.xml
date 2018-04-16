@@ -31,7 +31,7 @@
 <channel>       
 <title><![CDATA[BELICAS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/57ee7f4b130aec26de7ccade6a430ca5.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/1d3c085e828f6a46ba26430e72ce24fd.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HD/belicashd.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -47,12 +47,18 @@
 <channel>       
 <title><![CDATA[COMEDIA]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/57ee7f4b130aec26de7ccade6a430ca5.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/01acdb82b1ef44bc69bcc41628bfa21c.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HD/comedia.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  
+<channel>       
+<title><![CDATA[DRAMA]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/3eaf22a39ee8afdabc3c45009cd9259a.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HD/drama.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
   
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
