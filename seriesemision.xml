@@ -280,7 +280,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-  
+<channel>       
+<title><![CDATA[Deep State T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/deep-state_5i8t0y8vdn52018-04-09.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/deep.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
 
  <channel>       
 <title><![CDATA[El accidente T1]]></title>
