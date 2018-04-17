@@ -425,13 +425,7 @@
 </channel>
 
  
- <channel>       
-<title><![CDATA[Fear the Walking Dead T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/fear-the-walking-dead_alyh9yu412l2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision/FeartheWalkingDead.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
 
  <channel>       
@@ -442,13 +436,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- 
- 
- 
- 
- 
+
 <channel>       
 <title><![CDATA[Genius T1]]></title>
 <logo_30x30></logo_30x30>
