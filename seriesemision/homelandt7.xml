@@ -69,6 +69,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+  <channel>
+<title><![CDATA[ 7x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/homeland_p1lnruwg89b2016-03-24.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/7lu3ojgqi458]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
+ 
+ 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
